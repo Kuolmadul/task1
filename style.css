@@ -1,0 +1,98 @@
+table{
+    border: black 2px solid;
+    border-bottom: black 2px solid;
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+    border-collapse: collapse;
+    color:darkblue;
+    image-resolution: normal;
+
+}
+
+h3{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+tr{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+
+td{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+
+body{
+    background-image: url("nature.jpg");
+    background-size: cover;
+}
+
+table{
+    align-self: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+form{
+    background-image: url("Unknown.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(30%)
+blur(5%);
+}
+textarea{
+    color:black;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    border: black 2px solid;
+    border-radius: 8px;
+}
+textarea:hover{
+    color:black;
+    cursor: alias;
+}
+
+h3{
+    color: white;
+    text-align: left;
+}
+
+
+label{color:white;
+}
+
+button{
+    color: blue;
+    background-color: aqua;
+}
+input{
+    color: crimson;
+    background-color: grey;
+    padding: 10px;
+    border: black 2px solid;
+    border-radius: 6px;
+}
+label{
+    color: orangered;
+}
+textarea{
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
